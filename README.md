@@ -15,15 +15,6 @@ Our mission is to empower researchers, developers, and organizations to build in
 
 🤝 Community Driven – Contribute, share, and collaborate with other security enthusiasts.
 
-📂 Repository Structure
-CyberAI-Hub/
-│── datasets/         # Links & sources of AI-ready security datasets
-│── research-papers/  # Curated list of AI + Cybersecurity research papers
-│── training/         # Platforms, labs, and learning resources
-│── tools/            # AI-powered cybersecurity tools & frameworks
-│── docs/             # Documentation & usage guides
-│── README.md         # Project overview
-
 🧑‍💻 Use Cases
 
 Building AI-powered malware detection systems.
